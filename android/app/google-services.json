@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "199700481611",
+    "firebase_url": "https://motoka-app-2c166-default-rtdb.firebaseio.com",
+    "project_id": "motoka-app-2c166",
+    "storage_bucket": "motoka-app-2c166.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199700481611:android:98abacbfca951052416fce",
+        "android_client_info": {
+          "package_name": "com.motoka.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVFD7KoDoZUUnLbx3pEhYZAjXADU2t-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
